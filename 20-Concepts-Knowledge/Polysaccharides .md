@@ -1,0 +1,1 @@
+Polysaccharides are lots of monosaccharides linked together (more than 10). 

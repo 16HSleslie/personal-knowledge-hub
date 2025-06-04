@@ -1,0 +1,1 @@
+Monocytes are found blood; have low phagocytic activity. Once they left the blood, monocytes become macrophages in tissues (e.g. spleen, liver), significantly increasing their phagocytic ability.

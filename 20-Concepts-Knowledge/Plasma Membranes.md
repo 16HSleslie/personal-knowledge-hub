@@ -1,0 +1,4 @@
+The plasma membranes is a semi-permeable barrier, which controls movement of substances in and out of the cell. This interaction with the environment limits the maximum size of a cell.
+Plasma membranes are composed of a phospholipid bilayer. The phospholipids have hydrophilic heads and hydrophobic tails.
+
+Membrane fluidity changes depending on whether the hydrocarbon tails of the phospholipids are unsaturated (some double bonds) or saturated (no double bonds). When they are unsaturated, there are kinks in the tails where the double bonds are located, so they cannot pack as tightly together. This causes a more fluid membrane. However, when they are saturated, they can pack much closer together and therefore the membrane is much more viscous. The addition of cholesterol within animal cell membranes stabilises membrane fluidity by reducing phospholipid movement.

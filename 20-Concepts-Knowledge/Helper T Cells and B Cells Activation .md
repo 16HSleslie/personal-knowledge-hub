@@ -1,0 +1,1 @@
+B cells produce antibodies; require activation from helper T cells.

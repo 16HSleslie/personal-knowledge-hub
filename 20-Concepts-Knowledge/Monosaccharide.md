@@ -1,0 +1,1 @@
+Monosaccharides are single unit building blocks of carbohydrates. Hexose monosaccharides (6 carbons) are usually the building blocks of higher-order carbohydrates. Pentose monosaccharides (5 carbons) are usually port of larger molecules like nucleic acids.

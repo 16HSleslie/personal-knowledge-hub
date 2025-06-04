@@ -1,0 +1,1 @@
+Life exists on a diverse scale, but most plants and animals cells range between 10-100μm. To measure, micrometres (or microns) are always used. To measure the internal structures of cells, nanometres are always used.

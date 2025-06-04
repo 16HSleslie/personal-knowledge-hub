@@ -1,0 +1,2 @@
+This system consists of endocrine cells (making up glands) which secrete hormones (chemical messengers) into the bloodstream, whereupon they are carried to act at their receptors on target cells
+![[image-29.png]]

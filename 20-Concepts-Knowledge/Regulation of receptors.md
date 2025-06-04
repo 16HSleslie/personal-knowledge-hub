@@ -1,0 +1,2 @@
+- Sensitivity of target cells to hormones depends on the number of receptors they have (or 'express')
+- To allow constant adjustment of receptor numbers, cells can degrade (down-regulate) or synthesise (up-regulate) receptors which will in turn decrease the cell's response to a give hormones

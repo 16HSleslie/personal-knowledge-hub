@@ -1,0 +1,1 @@
+Disaccharides consist of two monosaccharides joined together. Take maltose for example, which is two molecules of glucose linked together. 

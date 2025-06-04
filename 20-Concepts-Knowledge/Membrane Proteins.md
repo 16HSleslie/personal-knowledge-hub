@@ -1,0 +1,4 @@
+Membrane proteins are important in the movement of substances across membranes. However, they have more roles than this and they are often specific to a cell type.
+One of their roles is signal transduction. The protein relay messages from the body or environment into the cell, telling the cell to do things such as grow, divide, move, etc.
+It may have a binding site with a specific shape that fits the shape of a chemical messenger, such as a hormone. Another role is cell recognition. This often involves glycoproteins,
+which server as identification tags that are specifically recognised by membrane proteins of other cells. 

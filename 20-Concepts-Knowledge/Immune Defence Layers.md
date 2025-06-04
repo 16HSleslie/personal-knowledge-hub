@@ -1,0 +1,3 @@
+- Physical & Chemical barriers - First line of defence (e.g. skin, mucosal membranes) 
+- **Innate immune system** - Rapid, non-specific response to pathogens
+- **Adaptive immune response** - Slower, highly specific response with memory

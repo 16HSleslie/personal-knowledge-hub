@@ -1,0 +1,1 @@
+Oligosaccharides are several monosaccharides linked together (between 3-10).

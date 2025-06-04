@@ -1,0 +1,3 @@
+- ↑GH = Gigantism (if onset in childhood) or Acromegaly (if onset in adulthood)
+- ↓GH = Dwarfism
+- Pathology can also be due to hypo- or hyper- sensitivity of receptors

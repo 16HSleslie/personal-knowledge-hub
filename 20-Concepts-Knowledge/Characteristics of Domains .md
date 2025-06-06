@@ -1,3 +1,11 @@
+---
+
+title: "Characteristics of Domains"
+tags: [concept, taxonomy, cell-biology]
+explains: "[[Domains of Life]]"
+similar_to: "[[Characteristics of Life]]"
+
+---
 The key differences between prokaryotic cells and eukaryotic cells, is that membrane-enclosed organelles are only present in eukaryotes. Some other key differences between the three domains are outline in the table:
 
 | Characteristic                                    | Bacteria | Archaea | Eukarya |

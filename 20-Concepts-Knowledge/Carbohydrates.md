@@ -1,3 +1,11 @@
+---
+
+title: "Carbohydrates"
+tags: [concept, biochemistry, macromolecules]
+example_of: "[[Macromolecules]]"
+part_of: ["[[Monosaccharide]]", "[[Disaccharides]]", "[[Oligosaccharides]]", "[[Polysaccharides]]"]
+
+---
 A carbohydrates is a biomolecule composed of carbon, hydrogen, and oxygen atoms. There are 4 levels of carbohydrates:
 - Monosaccharides (simple carbohydrates or sugars)
 - Disaccharides (simple carbohydrates or sugars)

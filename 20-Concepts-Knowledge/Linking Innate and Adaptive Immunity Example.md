@@ -1,3 +1,8 @@
+---
+title: Linking Innate and Adaptive Immunity Example
+tags: [immunology, systems-biology, concept]
+relates_to: ["[[20-Concepts-Knowledge/Dendritic Cells and Activation of Adaptive Immunity.md]]::example_of", "[[20-Concepts-Knowledge/Helper T Cells and B Cell Activation.md]]::example_of", "[[20-Concepts-Knowledge/Complement System and B Cell Activation.md]]::example_of"]
+---
 ### Explanation
 1. Physical barrier (skin) is breached
 2. Pathogen enter the body

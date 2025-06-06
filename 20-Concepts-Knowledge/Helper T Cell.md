@@ -1,1 +1,0 @@
-Helper T cells (Th cells) coordinate immune response and help activate B cells.

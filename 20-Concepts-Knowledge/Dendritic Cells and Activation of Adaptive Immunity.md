@@ -1,3 +1,13 @@
+---
+title: Dendritic Cells and Activation of Adaptive Immunity
+tags:
+  - concept
+  - immunology
+  - adaptive-immunity
+depends_on: "[[Major Histocompatibility Complex (MCH)]]"
+activates: "[[T Cells]]"
+part_of: "[[Linking Innate and Adaptive Immunity Example]]"
+---
 **Dendritic cells (DCs)** are critical for linking innate and adaptive immunity.
 **Activated dendritic cells** communicate with T cells via:
 - Cytokine secretion

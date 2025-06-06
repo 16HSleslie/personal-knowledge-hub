@@ -1,3 +1,11 @@
+---
+
+title: "Chemical Classification of Hormones"
+tags: [concept, endocrinology, biochemistry]
+part_of: "[[Endocrine System]]"
+applies_to: "[[Membrane Proteins]]"
+
+---
 
 |                         | Water-soluble hormone                              | Lipid-soluble hormones                                                                                                                   |
 | ----------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,3 +1,12 @@
+---
+
+title: "Granulocytes"
+tags: [concept, immunology, innate-immunity]
+example_of: "[[White Blood Cells]]"
+part_of: "[[Inflammatory Response]]"
+similar_to: "[[Phagocytic Cells]]"
+
+---
 **Neutrophils**:
 - Most abundant types of white blood cells
 - Highly phagocytic - "eat and kill" pathogens; numbers increase during infection 

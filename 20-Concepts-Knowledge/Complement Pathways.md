@@ -1,3 +1,11 @@
+---
+
+title: "Complement Pathways"
+tags: [concept, immunology, innate-immunity]
+part_of: ["[[The Complement System]]", "[[Immune Defence Layers]]"]
+explains: "[[Complement System and B Cell Activation]]"
+
+---
 - Classical pathway - triggered by antibodies bound to pathogens
 - Alternate pathway - Triggered by direct binding of complement to pathogen surfaces.
 - Lectin pathway - Triggered by microbial carbohydrates binding to complement.

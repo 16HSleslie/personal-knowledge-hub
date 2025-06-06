@@ -1,4 +1,0 @@
----
-title: Tissue
-tags: 
----
